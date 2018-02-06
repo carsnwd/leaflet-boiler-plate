@@ -1,5 +1,5 @@
 /**
- * Created by woodc3 on 6/23/2017.
+ * Created by Carson Wood on 6/23/2017.
  */
 
 var map; //Leaflet map
